@@ -4,7 +4,7 @@ const error = document.querySelector('.error');
 const errormessage = document.querySelector('.error-message');
 
 form.addEventListener('submit', (event) => {
-  if (formEmail.value.match(/^[a-z.0-9-_]+@[a-z.0-9-_]+$/)) {
+  if (formEmail.value.match(/^[a-z.0-9-_]+@[a-z.0-9-_]+$/ )) {
     error.classList.add('hide');
     errormessage.textContent = '';
     formEmail.style.border = 'none';
