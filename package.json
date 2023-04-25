@@ -1,7 +1,7 @@
 {
-  "name": "my_portfolio",
+  "name": "personal_portfolio",
   "version": "1.0.0",
-  "description": "> Description : \r                 This is a website portfolio project in which i created the my portfolio website.",
+  "description": "> Description : \r                 This is a website portfolio project to host my works.",
   "main": "popup.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ABDULALI3468/MY_PORTFOLIO.git"
+    "url": "git+https://github.com/AckonSamuel/personal_portfolio.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {},
-  "homepage": "https://github.com/ABDULALI3468/MY_PORTFOLIO#readme",
+  "homepage": "https://github.com/AckonSamuel/personal_portfolio#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
